@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1823f755-a351-4682-a584-32879b117340" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InnerFunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reduce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +44,7 @@
     "Python.Hello.executor": "Run",
     "Python.InnerFunction.executor": "Run",
     "Python.LambdaFunction.executor": "Run",
+    "Python.List.executor": "Run",
     "Python.ListComprehension.executor": "Run",
     "Python.LoopControlStatement.executor": "Run",
     "Python.Loops.executor": "Run",
@@ -56,7 +56,7 @@
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Dictionary">
+  <component name="RunManager" selected="Python.List">
     <configuration name="Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonClass" />
       <option name="ENV_FILES" value="" />
@@ -123,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Map" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonClass" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Map.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.List" />
         <item itemvalue="Python.Dictionary" />
         <item itemvalue="Python.InnerFunction" />
         <item itemvalue="Python.Reduce" />
         <item itemvalue="Python.Filter" />
-        <item itemvalue="Python.Map" />
       </list>
     </recent_temporary>
   </component>
